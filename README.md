@@ -2,7 +2,7 @@
 
 ## About BubbleThemeShop
 
-<b>BubbleThemeShop</b> is the latest solution for template online store, combining a modern impression with a simple but elegant design. With a clean and minimalist appearance, this template provides users with a fun and intuitive shopping experience.
+<b>BubbleThemeShop</b> is the newest solution for online store template, combining a modern impression with a simple but elegant design. With a clean and minimalist appearance, this template provides users with a fun and intuitive shopping experience.
 
 The use of clean design elements makes BubbleThemeShop suitable for a wide variety of products. Its elegant appearance ensures focus on products, while easy navigation allows visitors to quickly find what they are looking for.
 
