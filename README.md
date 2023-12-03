@@ -1,4 +1,4 @@
-<p align="center"><kbd><img src="https://www.imghippo.com/images/1701595783.jpg" width="100%" alt="BubbleThemeShop Demo"></kbd></p>
+<p align="center"><kbd><img src="https://www.imghippo.com/images/1701598017.png" width="100%" alt="BubbleThemeShop Demo"></kbd></p>
 
 ## About BubbleThemeShop
 
