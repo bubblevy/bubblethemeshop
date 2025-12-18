@@ -1,4 +1,4 @@
-<p align="center"><kbd><img src="https://haibubble.com/static-images/bubblethemeshop.jpg" width="100%" alt="BubbleThemeShop Demo"></kbd></p>
+<p align="center"><kbd><img src="https://raw.githubusercontent.com/bubblevy/bubblethemeshop/main/assets/img/demo.jpg" width="100%" alt="BubbleThemeShop Demo"></kbd></p>
 
 ## About BubbleThemeShop
 
